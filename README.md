@@ -1,10 +1,7 @@
-Here's an even more fun and engaging version of your README! 🎉
 
----
 
 # DASS (Depression, Anxiety, Stress Scale) Analysis
-
-Welcome to the **DASS Analysis** project! 🧠💡
+🧠💡
 
 This Python-powered tool lets you dive into the world of mental health analysis! It compares **Depression**, **Anxiety**, and **Stress** scores before and after an intervention. With some cool statistical tests (paired t-tests, ANOVA) and eye-catching visualizations, you’ll see the impact of interventions like never before. Ready? Let’s make mental health analysis fun! 🎉
 

@@ -1,0 +1,20 @@
+================ Paired Tests (t-test or Wilcoxon) per Aspect ================
+Significance level: α = 0.05
+
+Aspect       Test        Statistic      p-value                  Decision
+---------------------------------------------------------------------------
+Depression  Wilcoxon    N/A      0.0000      Reject H₀
+Anxiety     Wilcoxon    N/A      0.0000      Reject H₀
+Stress      Wilcoxon    N/A      0.0000      Reject H₀
+
+Note: Non-parametric Wilcoxon test used for: Anxiety, Stress
+================================================================================
+
+
+================ Overall Comparison (ANOVA or Kruskal-Wallis) ==============================
+Aspect     Test                  Statistic      p-value                  Decision
+---------------------------------------------------------------------------
+All       Kruskal-Wallis          4.1136   0.1279      No significant difference
+
+Note: Non-parametric tests (Wilcoxon/Kruskal) used due to non-normality in: Anxiety, Stress
+=============================================================================================
